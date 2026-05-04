@@ -1,0 +1,13 @@
+---
+title: "Safe Water & Sanitation Lit Review"
+author: "Fox Redmond"
+description: ""
+date: "2026-04-09"
+categories: []
+---
+
+This story is a literature review relating to goal 6 of the United Nation's Sustainable Development Goals. This goal seeks to ensure access to safe drinking water and sanitation for all. In this story I explore news articles as well as scholarly journals in order to glean a better picture of literature surrounding this topic. With access to safe water and sanitation being a prerequisite to physical health, understanding the current picture and pathways forward for this goal is of utmost importance. Water is undeniably a human right and it is not until everyone has safe access to it that they can be fully involved in other areas of sustainable development.
+
+For the full story, go here: <https://foxredmond.github.io/data_story_3.0/intro.html> (<https://github.com/foxredmond/data_story_3.0>)
+
+![Figure 2.1: Lucas Ndeti fetches water from a small lake created by a dam near Senda, Kenya. Open water sources like this one are easily contaminated by bacteria, parasites and other harmful pollutants. https://crosscatholic.org/blogs/2023/10/why-do-some-nations-lack-access-to-clean-water/](thumbnail.jpg)

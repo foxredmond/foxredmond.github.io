@@ -1,0 +1,13 @@
+---
+title: "Land Use Change and a Case Study of India"
+author: "Fox Redmond"
+description: ""
+date: "2026-03-03"
+categories: []
+---
+
+Although large-scale agriculture is a crucial part in today's society, it's contributions to climate change cannot be overlooked. This story takes a look at how land dedicated specifically to grazing and rearing livestock is the biggest culprit in this issue. With a focus on the United Nation's Sustainable Development goal on climate action, we look into the relationship between agricultural land use and climate change. Highlighting India, the story shows how a country that eats proportionally much less red meat, can have lower climate impacts and higher agricultural efficiency. Finally, the reader is led to how alternatives for protein sources like beef and lamb can require up to 75 times less land to produce equal grams of protein.
+
+For the full story, go here: <https://foxredmond.github.io/land_use/> (<https://github.com/foxredmond/land_use>)
+
+![This figure was made in rStudio for my data story on global land use change. It shows land use required to produce 100g of protein for different foods, demonstrating the staggeringly high land use required to produce red meat](thumbnail.jpg)

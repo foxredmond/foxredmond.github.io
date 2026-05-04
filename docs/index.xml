@@ -5,66 +5,131 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>blog</title>
+<title>Fox Redmond&#39;s blog</title>
 <link>https://your-website-url.example.com/</link>
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.25</generator>
 <lastBuildDate>Tue, 21 Apr 2026 05:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <title>Food Waste at Farm to Table</title>
+  <dc:creator>Fox Redmond</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-5/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This is a post with executable code.</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span></span></code></pre></div></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
+<p>This story begins with my involvement in an event known as Farm to Table, put on at the University of the South in April of 2026. The goal of this student-run event is to have a celebration that introduces the community to the sustainable nature of local food. A priority for this year’s Farm to Table was to not have any food waste, which was the the inspiration behind this data. I set up this pipeline to track quantities of food/drink purchased vs actually consumed at the event, so that this data can be referenced in future years to avoid any further waste.</p>
+<p>For the data exploration go here: <a href="https://foxredmond.github.io/data_story_5.0/" class="uri">https://foxredmond.github.io/data_story_5.0/</a></p>
+<p>For a screenshare recording on the full story pipeline, go here: <a href="https://drive.google.com/file/d/1zCSH3tROwDHGZkpTYrRrBXmefpRnudJk/view?usp=sharing" class="uri">https://drive.google.com/file/d/1zCSH3tROwDHGZkpTYrRrBXmefpRnudJk/view?usp=sharing</a> (<a href="https://github.com/foxredmond/data_story_5.0" class="uri">https://github.com/foxredmond/data_story_5.0</a>)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-5/thumbnail.jpg" class="img-fluid figure-img"></p>
+<figcaption>This is a figure from my story exploring data I collected at the University of the South’s Farm to Table event. The figure shows what food/drinks were left over by the end of the meal.</figcaption>
+</figure>
 </div>
 
 
 
  ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-5/</guid>
   <pubDate>Tue, 21 Apr 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <title>Water Use at the University of the South</title>
+  <dc:creator>Fox Redmond</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-4/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+<p>I created this dashboard with Sewanee, Tennessee utility data from the past three years. It is designed with an interface that allows the user to explore different metrics of water use in campus buildings at the University of the South. This is important because tracking water usage data is an important step in order to achieve the UN’s goal on sustainable water use. Although people often think of how these goals are lining up the scale of nations and coorperations, it is just as important to track them on the smaller, more local level. With the help of this dashboard, the Sewanee community can become more invested in campus-wide water use.</p>
+<p>For a screenshare recording on the full story, go here: <a href="https://drive.google.com/file/d/1LYoCE5x_6DLsj0xF35BLvMjjqLBNg7xA/view?usp=sharing" class="uri">https://drive.google.com/file/d/1LYoCE5x_6DLsj0xF35BLvMjjqLBNg7xA/view?usp=sharing</a> (<a href="https://github.com/foxredmond/Data_story_4" class="uri">https://github.com/foxredmond/Data_story_4</a>)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-4/thumbnail.jpg" class="img-fluid figure-img"></p>
+<figcaption>This is a photo of my dashboard on water data in University of the South campus buildings. For a more in depth exploration watch the screenshare video linked above.</figcaption>
+</figure>
+</div>
 
 
 
  ]]></description>
-  <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
-  <pubDate>Sat, 18 Apr 2026 05:00:00 GMT</pubDate>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-4/</guid>
+  <pubDate>Tue, 14 Apr 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Safe Water &amp; Sanitation Lit Review</title>
+  <dc:creator>Fox Redmond</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-3/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This story is a literature review relating to goal 6 of the United Nation’s Sustainable Development Goals. This goal seeks to ensure access to safe drinking water and sanitation for all. In this story I explore news articles as well as scholarly journals in order to glean a better picture of literature surrounding this topic. With access to safe water and sanitation being a prerequisite to physical health, understanding the current picture and pathways forward for this goal is of utmost importance. Water is undeniably a human right and it is not until everyone has safe access to it that they can be fully involved in other areas of sustainable development.</p>
+<p>For the full story, go here: <a href="https://foxredmond.github.io/data_story_3.0/intro.html" class="uri">https://foxredmond.github.io/data_story_3.0/intro.html</a> (<a href="https://github.com/foxredmond/data_story_3.0" class="uri">https://github.com/foxredmond/data_story_3.0</a>)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-3/thumbnail.jpg" class="img-fluid figure-img"></p>
+<figcaption>Figure 2.1: Lucas Ndeti fetches water from a small lake created by a dam near Senda, Kenya. Open water sources like this one are easily contaminated by bacteria, parasites and other harmful pollutants. https://crosscatholic.org/blogs/2023/10/why-do-some-nations-lack-access-to-clean-water/</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-3/</guid>
+  <pubDate>Thu, 09 Apr 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Land Use Change and a Case Study of India</title>
+  <dc:creator>Fox Redmond</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Although large-scale agriculture is a crucial part in today’s society, it’s contributions to climate change cannot be overlooked. This story takes a look at how land dedicated specifically to grazing and rearing livestock is the biggest culprit in this issue. With a focus on the United Nation’s Sustainable Development goal on climate action, we look into the relationship between agricultural land use and climate change. Highlighting India, the story shows how a country that eats proportionally much less red meat, can have lower climate impacts and higher agricultural efficiency. Finally, the reader is led to how alternatives for protein sources like beef and lamb can require up to 75 times less land to produce equal grams of protein.</p>
+<p>For the full story, go here: <a href="https://foxredmond.github.io/land_use/" class="uri">https://foxredmond.github.io/land_use/</a> (<a href="https://github.com/foxredmond/land_use" class="uri">https://github.com/foxredmond/land_use</a>)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-2/thumbnail.jpg" class="img-fluid figure-img"></p>
+<figcaption>This figure was made in rStudio for my data story on global land use change. It shows land use required to produce 100g of protein for different foods, demonstrating the staggeringly high land use required to produce red meat</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-2/</guid>
+  <pubDate>Tue, 03 Mar 2026 06:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>The Energy Use Landscape and Pathways Towards Renewables</title>
+  <dc:creator>Fox Redmond</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-1/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This story focuses on the United Nation’s Sustainable Development goal number 13, which covers climate action. The story begins with a background into key statistics that fuel climate change such as population growth and CO2 emissions. Next it gives insight into the current renewable energy snapshot before explaining how energy sources like wind and solar are starting to become market competitive with fossil fuels. How our society rises to meet climate change, will dictate the future of our world. Understanding the data that goes into making climate-related descions is one of the most important ways to be climate-informed steward of the planet.</p>
+<p>For the full story, go here: <a href="https://foxredmond.github.io/energy/" class="uri">https://foxredmond.github.io/energy/</a> (<a href="https://github.com/foxredmond/energy" class="uri">https://github.com/foxredmond/energy</a>)<img src="https://your-website-url.example.com/posts/2026-05-04-data-story-1/thumbnail.jpg" class="img-fluid" alt="This figure was made in rStudio for my story on carbon emissions and renewable energy. It provides insight into the plummeting lifetime costs of solar and wind energy with respect to fossil fuels."></p>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-1/</guid>
+  <pubDate>Tue, 17 Feb 2026 06:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
