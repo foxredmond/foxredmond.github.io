@@ -1,2 +1,2 @@
 # foxredmond.github.io
-Final portfolio for data storytelling class
+To access my final portfolio for Dr. Ezell's Data Storytelling and Sustainable Development course, go here: https://foxredmond.github.io/
